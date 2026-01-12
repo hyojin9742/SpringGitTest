@@ -1,1 +1,9 @@
-/SpringGitTest/
+*.classpath
+*.project
+*.springBeans
+*.class
+/target/
+/build/
+/out/
+.settings/
+/logs/
